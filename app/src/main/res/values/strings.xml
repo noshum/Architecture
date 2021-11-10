@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Architecture</string>
+    <string name="overview">Overview:</string>
+
+    <string-array name="images">
+        <item>https://www.themoviedb.org/t/p/w1280/yRiOOJNDRNeCcamQDIgP4DDu2x4.jpg</item>
+        <item> https://www.themoviedb.org/t/p/w1280/r4U9BPS6PBjrGVu0KXH2EBcRIE.jpg </item>
+        <item> https://www.themoviedb.org/t/p/w1280/re1t7fTqfxru78xEygvZMM1xfXr.jpg </item>
+
+    </string-array>
+
+    <string-array name="overview">
+        <item>Netflix, Inc. is a pay television over-the-top media service and American production
+              company that offers subscription-based video on demand from a library of films and
+              television series, 40% of which is original programming produced in-house.</item>
+        <item> In one of the German cities, car races take place. On the eve of the competition,
+               the famous racer Manfred Falk refuses to take part in the races. Instead of Falk,
+               his friend Hermann Seering, a well-known racer in the past, and recently working
+               as a mechanic, rides.</item>
+        <item> A bandit in a black mask, having shot the train, takes a bag of gold coins from
+               the mail car and hides on his horse. The bandit takes refuge on the ranch, driving
+               out the farmer and his cow. A farmer with a cow go to the nearest town. In the saloon,
+               a farmer sees an advertisement for a one thousand coins bounty for the capture of a
+               bandit in a black mask.</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Netflix</item>
+        <item>Behind the wheel</item>
+        <item>One cowboy, two cowboy... </item>
+    </string-array>
+
+    <string-array name="vote_average">
+        <item>9.9</item>
+        <item>Умгу</item>
+        <item>10</item>
+    </string-array>
+</resources>
